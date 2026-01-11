@@ -1,34 +1,30 @@
 # 🧩 <Nome da Disciplina>
-**Período:** 2025/1  
-**Projeto:** <Nome do projeto ou atividade principal>  
-**Professor(a):** <Nome do professor>
+**Período:** 2024/1  
+**Projeto:** INF Dash 3D
+**Professor(a):** Marcelo Walter
 
 ---
 
 ## 🎯 Problema a ser resolvido
 Descreva brevemente o problema que o projeto aborda.
 
-> Exemplo: Desenvolver um sistema web para gerenciamento de tarefas colaborativas, com controle de usuários e prazos.
+Desenvolvimento de um jogo, similar ao Geometry Dash, porém em 3D, feito inteiramente em C com auxílio de bibliotecas visuais.
 
 ---
 
 ## 🏗️ Arquitetura e Tecnologias
 Explique as decisões técnicas e a estrutura do sistema:
-- Linguagens e frameworks utilizados
+- Linguagens e frameworks utilizados: C
 - Padrões de projeto aplicados
 - Estrutura de pastas e responsabilidades
-- Estratégias de testes e verificação
-- Integração contínua / automação
-
-*(Adicione diagramas UML ou imagens na pasta [`docs/`](./docs))*  
+ 
 
 ---
 
 ## 🧱 Boas práticas aplicadas
 Liste práticas de Engenharia de Software seguidas neste projeto:
 - Versionamento semântico e commits descritivos
-- Testes automatizados
-- Documentação em Markdown
+- Documentação com comentários ao longo do código
 - Princípios **SOLID**, **DRY**, **KISS**
 - Uso de ferramentas de linting, revisão e CI
 
@@ -63,9 +59,17 @@ Consulte [`docs/`](./docs) para:
 ---
 
 ## 📈 Resultados e Aprendizados
-- O que funcionou bem  
-- O que poderia melhorar  
-- Conceitos mais aplicados da disciplina  
+- O que funcionou bem
+  - Divisão das tarefas entre integrantes do grupo;
+  - Respeito a prazos e datas de entrega;
+  - Escolha do design e demais visuais do jogo;
+- O que poderia melhorar
+  - Leitura do mapa por meio de arquivos;
+  -  
+- Conceitos mais aplicados da disciplina
+  - Separação de código em funções;
+  - Utilização de leitura e escrita em arquivos binários e de texto;
+  - Uso de constantes para valores centrais do código;
 - Lições para projetos futuros
 
 ## 🪶 Sugestão de boas práticas no GitHub
