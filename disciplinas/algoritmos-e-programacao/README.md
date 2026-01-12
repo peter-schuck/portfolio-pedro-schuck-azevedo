@@ -7,14 +7,13 @@
 ---
 
 ## 🎯 Problema a ser resolvido
-Descreva brevemente o problema que o projeto aborda.
 
 Desenvolvimento de um jogo, similar ao Geometry Dash, porém em 3D, feito inteiramente em C com auxílio de bibliotecas visuais.
 
 ---
 
 ## 🏗️ Arquitetura e Tecnologias
-Explique as decisões técnicas e a estrutura do sistema:
+Decisões técnicas e a estrutura do sistema:
 - Linguagens de programação utilizadas: C
 - Biblioteca visual empregada: Raylib
 - Tipos de arquivos usados: Binários e de texto
@@ -22,7 +21,7 @@ Explique as decisões técnicas e a estrutura do sistema:
 ---
 
 ## 🧱 Boas práticas aplicadas
-Liste práticas de Engenharia de Software seguidas neste projeto:
+Práticas de Engenharia de Software seguidas neste projeto:
 - Documentação com comentários ao longo do código
 - Princípio de código linear
 - Uso de reuniões para acompanhar o progresso de cada integrante da equipe
