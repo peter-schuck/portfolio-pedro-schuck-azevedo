@@ -1,19 +1,19 @@
 # 🧩 <Nome da Disciplina>
 **Período:** 2025/2  
 **Projeto:** Studify
+
 **Professor(a):** Karina Kohl
 
 ---
 
 ## 🎯 Problema a ser resolvido
-Descreva brevemente o problema que o projeto aborda.
 
 Uma aplicação para estudantes universitários organizarem seu tempo livre para estudar para provas, trabalhos e outras atividades
 
 ---
 
 ## 🏗️ Arquitetura e Tecnologias
-Explique as decisões técnicas e a estrutura do sistema:
+Decisões técnicas e a estrutura do sistema:
 - Linguagens e frameworks utilizados: Java e Swing
 - Padrões de projeto aplicados: MVC
 - Estrutura de pastas e responsabilidades:
@@ -80,7 +80,7 @@ tcp-20252-final-grupo-04/
 ---
 
 ## 🧱 Boas práticas aplicadas
-Liste práticas de Engenharia de Software seguidas neste projeto:
+Práticas de Engenharia de Software seguidas neste projeto:
 - Commits descritivos
 - Princípios **SOLID**
 - Uso de ferramentas de logging
