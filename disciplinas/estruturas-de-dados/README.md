@@ -1,7 +1,7 @@
 # 🧩 <Nome da Disciplina>
-**Período:** 2025/1  
+**Período:** 2024/2  
 **Projeto:** <Nome do projeto ou atividade principal>  
-**Professor(a):** <Nome do professor>
+**Professor(a):** Renata dos Matos Galante
 
 ---
 
@@ -67,14 +67,3 @@ Consulte [`docs/`](./docs) para:
 - O que poderia melhorar  
 - Conceitos mais aplicados da disciplina  
 - Lições para projetos futuros
-
-## 🪶 Sugestão de boas práticas no GitHub
-
-- **Commits claros e frequentes:** use mensagens do tipo  
-  `feat: adiciona módulo de autenticação`  
-  `fix: corrige bug no cálculo de desconto`
-- **Branches por feature:** `feature/login-page`, `test/api-endpoints`
-- **README com badges:**  
-  [![Build](https://img.shields.io/badge/build-passing-brightgreen)]() [![License](https://img.shields.io/badge/license-MIT-blue)]()
-- **Tag de releases:** `v1.0`, `v2.0`
-- **GitHub Pages opcional:** publique o portfólio em formato visual (HTML/Markdown).
