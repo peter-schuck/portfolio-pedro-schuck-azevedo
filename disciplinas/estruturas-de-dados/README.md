@@ -15,17 +15,16 @@ Realizar uma comparação, utilizando vários conjuntos extensos de dados distin
 Decisões técnicas e a estrutura do sistema:
 - Linguagens utilizadas: C
 - Estruturas de dados escolhidas: Lista Simplesmente Encadeada (LSE) e Árvore Binária de Pesquisa (ABP)
-- Estrutura de pastas e responsabilidades
-- Estratégias de testes e verificação
+- Tipos de arquivos com dados usados: Textuais
+- Site usado para gerar os gráficos: https://charts.livegap.com/?lan=pt#TypesofCharts
 
 ---
 
 ## 🧱 Boas práticas aplicadas
 Práticas de Engenharia de Software seguidas neste projeto:
 - Comentários descritivos
-- Documentação em Markdown
-- Princípios **SOLID**, **DRY**, **KISS**
-- Uso de ferramentas de linting, revisão e CI
+- Separação do projeto com arquivo de header para proteger código
+- Uso de refatoração para facilitar testes com os dados
 
 ---
 
