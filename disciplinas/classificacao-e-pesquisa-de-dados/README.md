@@ -1,4 +1,4 @@
-# 🧩 <Nome da Disciplina>
+# 🧩 Classificação e Pesquisa de Dados <Nome da Disciplina>
 **Período:** 2025/1  
 **Projeto:** Catálogo de filmes <Nome do projeto ou atividade principal>  
 **Professor(a):** Leandro Krug Wives
@@ -23,9 +23,9 @@ Decisões técnicas e a estrutura do sistema:
 
 ## 🧱 Boas práticas aplicadas
 Práticas de Engenharia de Software seguidas neste projeto:
-- Versionamento e commits descritivos
+- Comentários descritivos em meio ao código
+- Criação de funções gerais para evitar repetição de código
 - Divisão em módulos com funcionalidades distintas
-- Princípios **SOLID**,
 - Uso de refatoração contínua
 
 ---
@@ -64,6 +64,7 @@ long busca_titulo(BTreeNode *root, char titulo[256], long x) {
 
 ## 📄 Documentação
 Feita em comentários ao longo de todos os arquivos com código. Além disso, é possível acessar o repositório com as primeiras implementações do projeto com ideias iniciais e esboços de código no link abaixo.
+
 https://github.com/FilipeMoura6416/Trabalho_Final-CPD.git
 
 ---
@@ -82,6 +83,6 @@ https://github.com/FilipeMoura6416/Trabalho_Final-CPD.git
   - Planejamento do projeto com diagramas ER;
   - Análise assintótica para verificar tempo médio de operações do programa.
 - Lições para projetos futuros
-  - Garantir que todos memberos do grupo comecem o projeto desde cedo;
+  - Garantir que todos membros do grupo comecem o projeto desde cedo;
   - Estabelecer prazos rígidos para as entregas de todos integrantes;
   - Manter um diálogo constante com toda a equipe ao longo do projeto.
