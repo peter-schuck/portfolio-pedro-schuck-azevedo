@@ -1,4 +1,4 @@
-# 🧩 <Nome da Disciplina>
+# 🧩 Estruturas de Dados <Nome da Disciplina>
 **Período:** 2024/2  
 **Projeto:** Análise de Desempenho de Lista Simplesmente Encadeada e Árvore Binária de Pesquisa <Nome do projeto ou atividade principal>  
 **Professor(a):** Renata de Matos Galante
