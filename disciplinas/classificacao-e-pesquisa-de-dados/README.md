@@ -17,7 +17,7 @@ Decisões técnicas e a estrutura do sistema:
 - Tipos de arquivos usados: binários
 - Interface em linha de comando
 - Sistema de arquivos modelado: FAT
-- Estrutura empregada: Árvores B
+- Estrutura de dados empregada: Árvores B
 
 ---
 
