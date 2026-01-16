@@ -1,4 +1,4 @@
-# 🧩 <Nome da Disciplina>
+# 🧩 Algoritmos e Programação <Nome da Disciplina>
 **Período:** 2024/1  
 **Projeto:** INF Dash 3D
 
