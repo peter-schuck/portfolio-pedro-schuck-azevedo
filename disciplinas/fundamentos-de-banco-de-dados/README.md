@@ -1,35 +1,30 @@
-# 🧩 <Nome da Disciplina>
-**Período:** 2025/1  
-**Projeto:** <Nome do projeto ou atividade principal>  
-**Professor(a):** <Nome do professor>
+# 🧩 Fundamentos de Banco de Dados <Nome da Disciplina>
+**Período:** 2025/2  
+**Projeto:** Base de Dados para o Youtube <Nome do projeto ou atividade principal>  
+**Professor(a):** Karin Becker <Nome do professor>
 
 ---
 
 ## 🎯 Problema a ser resolvido
-Descreva brevemente o problema que o projeto aborda.
 
-> Exemplo: Desenvolver um sistema web para gerenciamento de tarefas colaborativas, com controle de usuários e prazos.
+Modelar uma Base de Dados para as informações contidas no aplicativo Youtube, escolhendo quais dados manter e quais relações lógicas existem entre seus elementos.
+Além disso, realizar consultas sobre estes elementos e criar um programa que permita a um usuário realizar estas mesmas consultas, preenchendo algumas com os parâmetros que desejar.
 
 ---
 
 ## 🏗️ Arquitetura e Tecnologias
-Explique as decisões técnicas e a estrutura do sistema:
-- Linguagens e frameworks utilizados
+Decisões técnicas e a estrutura do sistema:
+- Linguagens e frameworks utilizados: C++, PostgresSQL
 - Padrões de projeto aplicados
 - Estrutura de pastas e responsabilidades
 - Estratégias de testes e verificação
-- Integração contínua / automação
-
-*(Adicione diagramas UML ou imagens na pasta [`docs/`](./docs))*  
 
 ---
 
 ## 🧱 Boas práticas aplicadas
-Liste práticas de Engenharia de Software seguidas neste projeto:
+Práticas de Engenharia de Software seguidas neste projeto:
 - Versionamento semântico e commits descritivos
-- Testes automatizados
-- Documentação em Markdown
-- Princípios **SOLID**, **DRY**, **KISS**
+- Princípios **SOLID**,
 - Uso de ferramentas de linting, revisão e CI
 
 ---
@@ -45,36 +40,39 @@ Reflexão pessoal sobre como contribuiu no projeto:
 
 ## 🧪 Exemplos de Código
 
-```java
-public double calcularDesconto(Produto p) {
-    return p.getPreco() * TAXA_DESCONTO;
+```c++
+void mostrar_resultados(const db::result& r)
+{
+    cout << "\nExibindo resultados:" << endl;
+    for (const auto& row : r) {
+        for (const auto& field : row) {
+            std::cout << field.c_str() << "\t";
+        }
+        std::cout << std::endl;
+    }
 }
 ```
 
 ---
 
 ## 📄 Documentação
-Consulte [`docs/`](./docs) para:
-- Diagramas UML  
-- Planejamento de testes  
-- Relatórios técnicos  
-- Slides de apresentação  
+Consulte o link abaixo para acessar o código da aplicação interativa:
+
+https://github.com/FilipeMoura6416/Etapa_3_FBD.git
+
+Fora isso, é possível encontrar nesta pasta
+- Diagrama ER da modelagem do Youtube
+- Universo de Discurso considerado
+- Dicionário de Dados
 
 ---
 
 ## 📈 Resultados e Aprendizados
-- O que funcionou bem  
-- O que poderia melhorar  
-- Conceitos mais aplicados da disciplina  
+- O que funcionou bem
+  -  
+- O que poderia melhorar
+  -   
+- Conceitos mais aplicados da disciplina
+  - 
 - Lições para projetos futuros
-
-## 🪶 Sugestão de boas práticas no GitHub
-
-- **Commits claros e frequentes:** use mensagens do tipo  
-  `feat: adiciona módulo de autenticação`  
-  `fix: corrige bug no cálculo de desconto`
-- **Branches por feature:** `feature/login-page`, `test/api-endpoints`
-- **README com badges:**  
-  [![Build](https://img.shields.io/badge/build-passing-brightgreen)]() [![License](https://img.shields.io/badge/license-MIT-blue)]()
-- **Tag de releases:** `v1.0`, `v2.0`
-- **GitHub Pages opcional:** publique o portfólio em formato visual (HTML/Markdown).
+  - 
