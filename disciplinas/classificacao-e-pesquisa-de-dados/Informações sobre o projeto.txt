@@ -1,0 +1,9 @@
+Olá, seja bem-vindo ao catálogo de filmes produzido pelo grupo Absolute Cinema. A seguir você encontrará mais informações sobre o catálogo e como desfrutar de suas funcionalidades.
+
+O que é o catálogo?
+
+O catálogo de filmes consiste em uma aplicação operada através de uma interface de linha de comando, onde através de comandos digitados pelo teclado, é possível realizar várias operações sobre o conjunto de filmes da base de dados, como pesquisar um filme por seu título, exibir de maneira ordenada todos os filmes segundo algum critério, filtrar os filmes de acordo com alguns de seus aspectos, incluir mais dados de filmes à base original ou consultar estatísticas sobre os filmes. 
+
+Como utilizar o catálogo?
+
+Para usar o catálogo, basta baixar todos os arquivos da aplicação, deixá-los na mesma pasta e executar o arquivo main.exe.
