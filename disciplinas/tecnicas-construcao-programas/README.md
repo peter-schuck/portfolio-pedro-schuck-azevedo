@@ -1,4 +1,4 @@
-# 🧩 <Nome da Disciplina>
+# 🧩 Técnicas de Construção de Programas <Nome da Disciplina>
 **Período:** 2025/2  
 **Projeto:** Studify
 
