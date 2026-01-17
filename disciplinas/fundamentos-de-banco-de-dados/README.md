@@ -14,27 +14,28 @@ Além disso, realizar consultas sobre estes elementos e criar um programa que pe
 
 ## 🏗️ Arquitetura e Tecnologias
 Decisões técnicas e a estrutura do sistema:
-- Linguagens e frameworks utilizados: C++, PostgresSQL
-- Padrões de projeto aplicados
-- Estrutura de pastas e responsabilidades
-- Estratégias de testes e verificação
+- Linguagem utilizada: C++ 
+- Banco de Dados relacional empregado: PostgreSQL
+- Tipo de conexão com a Base de Dados feita: SQL embutida
+- Diagrama conceitual usado para modelagem: Entidade-Relacionamento (ER)
 
 ---
 
 ## 🧱 Boas práticas aplicadas
 Práticas de Engenharia de Software seguidas neste projeto:
-- Versionamento semântico e commits descritivos
-- Princípios **SOLID**,
-- Uso de ferramentas de linting, revisão e CI
+- Comentários descritivos ao longo do código
+- Modularização do programa em funções para preparar as consultas
+- Uso de refatoração em consultas ambíguas
+- Aplicação de testes manuais para garantir o funcionamento correto
 
 ---
 
 ## 🤝 Soft Skills e Trabalho em Equipe
 Reflexão pessoal sobre como contribuiu no projeto:
-> - Liderei o grupo nas definições de arquitetura.  
-> - Trabalhei de forma autônoma na implementação de um módulo.  
-> - Busquei referências em artigos e repositórios open-source.  
-> - Organizei reuniões e apresentei progresso.
+> - Liderei o grupo na divisão de tarefas.  
+> - Trabalhei de forma autônoma na construção de certas consultas.  
+> - Busquei referências em sites e repositórios open-source.  
+> - Redigi boa parte do Universo de Discurso e Dicionário de Dados.
 
 ---
 
@@ -69,10 +70,18 @@ Fora isso, é possível encontrar nesta pasta
 
 ## 📈 Resultados e Aprendizados
 - O que funcionou bem
-  -  
+  - Criação de consultas diversas que abordam várias entidades e relacionamentos;
+  - Programa funcional que se conecta devidamente com a base de dados;
+  - Produção do diagrama ER considerando as entidades mais relevantes da plataforma. 
 - O que poderia melhorar
-  -   
+  - Simplificar o Dicionário de Dados;
+  - Melhorar e restringir a definição do Universo de Discurso;
+  - Padronizar o nome de variáveis no código.
 - Conceitos mais aplicados da disciplina
-  - 
+  - Modelagem ER;
+  - Mapeamanto de um diagrama ER para tabelas em SQL;
+  - SQL embutida com linguagem hospedeira C++.
 - Lições para projetos futuros
-  - 
+  - Garantir que todos os membros da equipe contribuam para todas as partes do projeto;
+  - Usar linugagens de progrmação que todos os integrantes tenham familiaridade;
+  - Discutir de forma saudável sobre decisões que causem discordância entre o grupo.
